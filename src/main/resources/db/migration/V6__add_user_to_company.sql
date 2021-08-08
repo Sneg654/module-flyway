@@ -1,0 +1,1 @@
+insert into company_user (company_id, user_id) values(5, 2);

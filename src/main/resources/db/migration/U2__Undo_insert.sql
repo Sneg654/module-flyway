@@ -1,0 +1,1 @@
+delete from test_user where username = 'vovasp';

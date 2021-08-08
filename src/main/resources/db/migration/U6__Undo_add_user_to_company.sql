@@ -1,0 +1,1 @@
+delete from company_user where company_id = 5 and user_id = 2;
